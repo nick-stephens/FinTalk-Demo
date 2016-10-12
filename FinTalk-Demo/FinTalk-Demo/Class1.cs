@@ -8,5 +8,9 @@ namespace FinTalk_Demo
 {
     public class HelloWorld
     {
+        public static void Main()
+        {
+            Console.Write("Hello World");
+        }
     }
 }
